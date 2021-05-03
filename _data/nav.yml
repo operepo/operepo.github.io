@@ -1,13 +1,13 @@
 - title: Home
-  href:  README.md
+  href:  /README.md
   
 - title: About
-  href: about.md
+  href: /about.md
   
 - title: Description
-  href: description.md
+  href: /description.md
 
 - title: Support
-  href: support.md
+  href: /support.md
   
   
