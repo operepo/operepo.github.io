@@ -38,3 +38,5 @@ Prison spec laptops are custom built to include the following hardware features:
 ## Laptop Software
 The laptops are designed to run with Windows 10 Pro/Enterprise. To credential and use them to sync student work with Canvas, you are required to use the full credential process. When this process runs, it ads several security layers including strict firewall rules, tightened security settings, disabling removable devices, device monitoring which disables any unwanted devices in the system and extra monitoring features such as random interval screenshots.
 Beyond security settings and the LMS app – the laptops are designed to be able to run appropriate approved apps. For example, an accounting class that uses QuickBooks could have that software on the laptop which would require much less lab time on the education floor to complete assignments.
+
+#
