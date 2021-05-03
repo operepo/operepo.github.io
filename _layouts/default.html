@@ -35,6 +35,7 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <div id="sidebar">
+          <nav>
           <ul>
             {% for nav in site.data.nav %}
               <li>
@@ -42,6 +43,7 @@
               </li>
             {% endfor %}
           </ul>
+          </nav>
         </div>
         <div id="middle_content">
         {{ content }}
