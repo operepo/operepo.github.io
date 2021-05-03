@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## OPE Server - Self Hosted Canvas
 
-You can use the [editor on GitHub](https://github.com/operepo/operepo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the OPE Server page. Here you will find resources on how to run the system to stand up or support your self hosted prison ready Canvas LMS system.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is the OPE (Open Prison Education) System
 
-### Markdown
+The system is designed to make it easy to deploy and update a self hosted canvas system in limited (e.g. "offline"/Prison) environments. The goal is to extend access to modern tools to those who have thus far been denied access. We aim to provide equity in learning materials in an environment that makes that difficult.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Getting Started
 
-```markdown
-Syntax highlighted code block
+We have some basic gettings started videos. Take a look here: [OPE Videos Repository](https://github.com/operepo/ope_vids).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/operepo/operepo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
