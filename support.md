@@ -26,3 +26,4 @@ On this page you will find support documents and videos for the OPE framework. I
 # Learning Management System (LMS) App
 * [Video 1: Canvas Course Sync](https://sbctc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62855ed9-f8f9-436a-b3fc-aca901602ae7)
 * [Video 2: Zipping Assignments for Submission](https://sbctc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32576510-ba7f-4c40-b988-aca901602a51)
+
