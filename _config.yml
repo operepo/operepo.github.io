@@ -1,8 +1,9 @@
 theme: jekyll-theme-slate
-title: Open Prison Education (OPE) - Self Hosted Canvas LMS Server
-description: A project to provide a prison ready self hosted Canvas LMS server with extra tools to help with management and conversion. Also includes fully secured offline windows laptops that inmates can utilize in their cells. The easiest, quickest, most secure way to get self hosted Canvas running for your education environment.
+title: OPE - Self Hosted Canvas LMS Server
+description: OPE (Open Prison Education) is a project to provide a prison ready self hosted Canvas LMS server with extra tools to help with management and conversion. Also includes fully secured offline windows laptops that inmates can utilize in their cells. The easiest, quickest, most secure way to get self hosted Canvas running for your education environment.
 show_downloads: "false"
 #google_analytics: [Your Google Analytics tracking ID]
 github:
+  tar_url: 
   zip_url: https://github.com/operepo/ope_server_sync_binaries/archive/refs/heads/master.zip
   #another_url: another value
