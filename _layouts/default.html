@@ -34,7 +34,18 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        <div id="sidebar">
+          <ul>
+            {% for nav in site.data.nav %}
+              <li>
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div id="middle_content">
         {{ content }}
+        </div>
       </section>
     </div>
 
