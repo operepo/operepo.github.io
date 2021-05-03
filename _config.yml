@@ -4,6 +4,9 @@ description: OPE (Open Prison Education) - The easiest and most secure way to se
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 github:
-  tar_url: 
+  tar_url: https://github.com/operepo/ope_server_sync_binaries/archive/refs/heads/master.zip
   zip_url: https://github.com/operepo/ope_server_sync_binaries/archive/refs/heads/master.zip
   #another_url: another value
+  repository_url: https://github.com/operepo/ope
+  #owner_url: https://correctionsed.com
+  owner_name: Ray Pulsipher
