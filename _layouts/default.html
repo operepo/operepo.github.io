@@ -40,9 +40,9 @@
             {% for nav in site.data.nav %}
               <li>
                 {% if nav.href contains 'http' %}
-                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
-                {% else %}
                 <a href="{{ nav.href }}">{{ nav.title }}</a>
+                {% else %}
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
                 {% endif %}
               </li>
             {% endfor %}
