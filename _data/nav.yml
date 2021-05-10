@@ -10,4 +10,15 @@
 - title: Support
   href: /support
   
+- title: Report Issues
+  href: https://github.com/operepo/ope/issues
+
+- title: Videos
+  href: https://github.com/operepo/ope_vids
+
+- title: Documentation
+  href: https://github.com/operepo/ope_documentation
+
+- title: SyncApp
+  href: https://github.com/operepo/ope_server_sync_binaries/archive/refs/heads/master.zip
   
