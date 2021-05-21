@@ -42,7 +42,7 @@
 	        {% if nav.sub !=null %}
 		<ul style="position: relative; left: -250px;">
 		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>
-		</ul>
+		
 				    {% for sub in nav.sub %}
 				    <ul>
 					<li>							   
@@ -52,7 +52,7 @@
 					</li>
 				    </ul>
 				    {% endfor %}
-			
+		</ul>	
 		
 		    
 
