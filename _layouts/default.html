@@ -36,11 +36,11 @@
       <section id="main_content" class="inner">
         <div id="sidebar" style="display: inline; position: fixed;">
           <nav>
-          
+		<ul style="position: relative; left: -250px;">          
             {% for nav in site.data.menu %}
               
 	        {% if nav.sub !=null %}
-		<ul style="position: relative; left: -250px;">
+	
 		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>
 		
 				    {% for sub in nav.sub %}
@@ -52,7 +52,7 @@
 					</li>
 				    </ul>
 				    {% endfor %}
-		</ul>	
+	
 		
 		    
 
@@ -65,7 +65,7 @@
 		{% endif %}
 
 	{% endfor %}
-
+		</ul>
         </nav>
         </div>
         <div id="middle_content">
