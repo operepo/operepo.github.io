@@ -41,8 +41,8 @@
               
 	        {% if nav.sub !=null %}
 
-		    
-			<ul>
+			<li>
+			
 				    {% for sub in nav.sub %}
 				<li>		   
 					    <a href="{{ site.baseurl }}{{ sub.href }}">
@@ -50,7 +50,7 @@
 					    </a>
 				</li>   
 				    {% endfor %}
-			</ul>
+			</li>
 		    
 
 	        {% else %}
