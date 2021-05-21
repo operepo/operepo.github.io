@@ -1,0 +1,18 @@
+- title: "Home"
+  href: 
+
+- title: "About"
+  href: "/about.md"
+
+- title: "Description"
+  href: "/description.md"
+
+- title: "Support"
+  href: "/support.md"
+  sub: 
+    - title: "IT Support"
+      href: "/support/itsupport.md"
+    - title: "Faculty Support"
+      href: "/support/facultysupport.md"
+      
+
