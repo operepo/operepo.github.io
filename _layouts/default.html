@@ -41,16 +41,17 @@
               
 	        {% if nav.sub !=null %}
 		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>	
-			<li>
-				<ul>			
+			<li>			
 				    {% for sub in nav.sub %}
-				<li>		   
+				    <ul>    
+					<li>		   
 					    <a href="{{ site.baseurl }}{{ sub.href }}">
 						    {{ sub.title}}
 					    </a>
-				</li>   
+					</li>
+				    </ul>
 				    {% endfor %}
-				</ul>
+				
 			</li>
 		    
 
