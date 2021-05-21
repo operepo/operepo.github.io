@@ -36,22 +36,24 @@
       <section id="main_content" class="inner">
         <div id="sidebar" style="display: inline; position: fixed;">
           <nav>
-          <ul style="position: relative; left: -250px;">
+          
             {% for nav in site.data.menu %}
               
 	        {% if nav.sub !=null %}
-		<ul>
 			<li>
-		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>				
-				    {% for sub in nav.sub %}    
+		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>
+			</li>
+				    {% for sub in nav.sub %}
+				    <ul style="position: relative; left: -250px;">
 					<li>							   
 					    <a href="{{ site.baseurl }}{{ sub.href }}">
 						    {{ sub.title}}
 					    </a>
 					</li>
+				    </ul>
 				    {% endfor %}
-			</li>
-		</ul>
+			
+		
 		    
 
 	        {% else %}
@@ -63,7 +65,7 @@
 		{% endif %}
 
 	{% endfor %}
-	  </ul>
+
         </nav>
         </div>
         <div id="middle_content">
