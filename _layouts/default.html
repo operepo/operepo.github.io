@@ -40,8 +40,8 @@
             {% for nav in site.data.menu %}
               
 	        {% if nav.sub !=null %}
-		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>	
-			<li>			
+		<li>
+		<a href="{{ site.baseurl }}{{ nav.ref }}">{{ nav.title }}</a>				
 				    {% for sub in nav.sub %}
 				    <ul>    
 					<li>		   
@@ -52,7 +52,7 @@
 				    </ul>
 				    {% endfor %}
 				
-			</li>
+		</li>
 		    
 
 	        {% else %}
