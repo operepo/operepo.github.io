@@ -7,13 +7,11 @@
 - title: "Description"
   href: "/description.md"
 
-- title: "Support"
-  href: "/support.md"
-  sub: 
-    - title: "IT Support"
-      href: "/support/itsupport.md"
-    - title: "Faculty Support"
-      href: "/support/facultysupport.md"
+- title: "IT Support"
+  href: "/support/itsupport.md"
+  
+- title: "Faculty Support"
+  href: "/support/facultysupport.md"
 
 - title: "Report Issues"
   href: "https://github.com/operepo/ope/issues"
