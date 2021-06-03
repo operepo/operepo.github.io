@@ -2,16 +2,16 @@
   href: 
 
 - title: "About"
-  href: "/about.md"
+  href: "/about"
 
 - title: "Description"
-  href: "/description.md"
+  href: "/description"
 
 - title: "IT Support"
   href: "/support/itsupport"
 
 - title: "Faculty Support"
-  href: "/support/facultysupport.md"
+  href: "/support/facultysupport"
 
 - title: "Report Issues"
   href: "https://github.com/operepo/ope/issues"
