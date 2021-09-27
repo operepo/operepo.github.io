@@ -11,6 +11,6 @@
 # Canvas
 * [Creating Links in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/325)
 * [Embedding Content in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-HTML-embedded-content-to-my-ePortfolio-page-as-a/ta-p/288)
-# Student Laptop and Canvas (Courtesy Julie Pruett)
+# Student Laptop and Canvas - Courtesy Julie Pruett
 * [Student Canvas Training Course](SupportFiles/canvas-student-training-export.imscc)
 * [Student Laptop and Canvas Training Checklist](Student-Laptop-Canvas-Training-Checklist.docx)
