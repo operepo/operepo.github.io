@@ -23,3 +23,4 @@ This download site contains Canvas courses that can bee used by Corrections Educ
 * [MCC](http://dl.correctionsed.com/canvas_curriculum/mcc/) - This folder contains the HS21 course.
 * [Portable Software Courses](http://dl.correctionsed.com/canvas_curriculum/portable_software_courses/)
 * [TCC](http://dl.correctionsed.com/canvas_curriculum/tcc/) - This folder contains the HS+ course.
+    - Download IMSCC file from TCC folder. Copy to USB. Take to facility. In Canvas course, click “Settings” and use the import link on the right to import the course.
