@@ -11,7 +11,15 @@
 # Canvas
 * [Creating Links in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/325)
 * [Embedding Content in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-HTML-embedded-content-to-my-ePortfolio-page-as-a/ta-p/288)
+* [Importing Course Cartridge](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-content-from-Common-Cartridge-into-Canvas/ta-p/649)
 # Student Laptop and Canvas
 ## Courtesy Julie Pruett
 * [Student Canvas Training Course](SupportFiles/canvas-student-training-export.imscc)
 * [Student Laptop and Canvas Training Checklist](Student-Laptop-Canvas-Training-Checklist.docx)
+# OPE Download Site
+This download site contains Canvas courses that can bee used by Corrections Education Faculty.
+* [Main Site](http://dl.correctionsed.com/canvas_curriculum/)
+* [Idea](http://dl.correctionsed.com/canvas_curriculum/idea/) - Idea courses
+* [MCC](http://dl.correctionsed.com/canvas_curriculum/mcc/) - This folder contains the HS21 course.
+* [Portable Software Courses](http://dl.correctionsed.com/canvas_curriculum/portable_software_courses/)
+* [TCC](http://dl.correctionsed.com/canvas_curriculum/tcc/) - This folder contains the HS+ course.
