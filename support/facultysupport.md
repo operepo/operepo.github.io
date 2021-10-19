@@ -12,6 +12,7 @@
 * [Creating Links in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-create-hyperlinks-to-external-URLs-in-the-Rich-Content/ta-p/325)
 * [Embedding Content in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-add-HTML-embedded-content-to-my-ePortfolio-page-as-a/ta-p/288)
 * [Importing Course Cartridge](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-import-content-from-Common-Cartridge-into-Canvas/ta-p/649)
+* [How to add course content as module items](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-course-content-as-module-items/ta-p/1157)
 # Student Laptop and Canvas
 ## Courtesy Julie Pruett
 * [Student Canvas Training Course](SupportFiles/canvas-student-training-export.imscc)
