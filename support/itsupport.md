@@ -16,3 +16,8 @@
 ## Laptop Management
 * [Document 1: Image Laptops](https://docs.google.com/document/d/1S5UAUaYJ803Kt5mquhKnWqw6jDNCGxjosAr8fXVx5qc/edit?usp=sharing)
 * [Document 2: Credentialing Laptops](https://docs.google.com/document/d/1XCpdVIejc02fEsuPV0DCOeb1nUfhGkLHidGf-L-3tm4/edit?usp=sharing)
+## OPE Resources
+* [Latest OPE ISO (rel1 - Ubuntu)](http://dl.correctionsed.com/resources/OPELinux-rel1.iso)
+* [Latest OPE MD5 (rel1 - Ubuntu)](http://dl.correctionsed.com/resources/OPELinux-rel1.md5)
+* [Previous OPE ISO (SuSe)](http://dl.correctionsed.com/resources/OPE_Docker.x86_64-0.0.10.preload.iso)
+* [WAMAP Font Installer](http://dl.correctionsed.com/resources/WAMAP%20Font%20Installer.msi)
