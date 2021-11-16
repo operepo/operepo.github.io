@@ -21,3 +21,7 @@
 * [Latest OPE MD5 (rel1 - Ubuntu)](http://dl.correctionsed.com/resources/OPELinux-rel1.md5)
 * [Previous OPE ISO (SuSe)](http://dl.correctionsed.com/resources/OPE_Docker.x86_64-0.0.10.preload.iso)
 * [WAMAP Font Installer](http://dl.correctionsed.com/resources/WAMAP%20Font%20Installer.msi)
+## CASAS Resources
+* [README File](http://dl.correctionsed.com/casas/README.html)
+* [SB Files](http://dl.correctionsed.com/casas/SB%20files.zip)
+* [Updates from CASAS Site](http://dl.correctionsed.com/casas/UPDATES_LOCATED_AT_CASAS_WEBSITE.txt)
